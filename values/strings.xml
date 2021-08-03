@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <array name="Songs">
+        <item>"Dance Monkey"</item>
+        <item>"HIGHEST IN THE ROOM"</item>
+        <item>"Lucid Dreams"</item>
+    </array>
+</resources>
